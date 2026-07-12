@@ -1,6 +1,6 @@
 {
     "name": "@plurnk/plurnk-mimetypes-grammar-c",
-    "version": "0.1.4",
+    "version": "1.0.0",
     "description": "Pre-built tree-sitter-c WASM grammar for @plurnk/plurnk-mimetypes.",
     "type": "module",
     "license": "MIT",
